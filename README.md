@@ -1,6 +1,34 @@
 # Awesome Miiner - Powerful Windows GUI to manage and monitor up to 200000 miners 
 ![image](https://user-images.githubusercontent.com/123663739/214911259-c9c03ccd-8c7e-489d-ac3c-93252ddc5036.png)
 
+
+## Getting started
+1 Frequently Asked Questions
+2 Getting started with Awesome Miner
+3 Getting started with Profit Switching
+4 Custom Antminer firmware
+5 Automatic setup of API access for Antminer
+
+Awesome Miner Affiliate Program
+By joining the Awesome Miner Affiliate Program, you can earn a commission when you refer new customers to Awesome Miner. A commission of up to 12 % will be paid for each sale.
+Read more about the affiliate program
+
+Help
+Frequently Asked Questions and Help topics
+
+About
+Awesome Miner is available in both Free and Paid editions. The Free edition includes many of the features.
+No signup required to get started.
+
+Download and read more on the Awesome Miner web site
+
+Please try the software and give feedback about what kind of functionality you would like to see in the next version. All comments and suggestions are welcome. The goal is to make mining easier and also provide powerful features to manage the mining.
+
+Thanks!
+Patrik Engström - IntelliBreeze Software AB
+Twitter: @AwesomeMinerApp
+Web site: www.awesomeminer.com
+
 ## GPU MINING
 
 + Native overclocking
