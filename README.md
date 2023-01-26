@@ -8,11 +8,11 @@ _Please try the software and give feedback about what kind of functionality you 
 
 ## Getting started
 -------------------
-1 [Frequently Asked Questions](https://support.awesomeminer.com/support/solutions/)
-2 [Getting started with Awesome Miner](https://support.awesomeminer.com/support/solutions/articles/35000085899-introduction-to-awesome-miner)
-3 [Getting started with Profit Switching](https://support.awesomeminer.com/support/solutions/articles/35000085714-profit-switching-introduction)
-4 [Custom Antminer firmware](https://www..awesomeminer.com/antminerfirmware)
-5 [Automatic setup of API access for Antminer](https://support.awesomeminer.com/support/solutions/articles/35000085989-configure-privileged-api-access-for-antminer)
++ 1 [Frequently Asked Questions](https://support.awesomeminer.com/support/solutions/)
++ 2 [Getting started with Awesome Miner](https://support.awesomeminer.com/support/solutions/articles/35000085899-introduction-to-awesome-miner)
++ 3 [Getting started with Profit Switching](https://support.awesomeminer.com/support/solutions/articles/35000085714-profit-switching-introduction)
++ 4 [Custom Antminer firmware](https://www..awesomeminer.com/antminerfirmware)
++ 5 [Automatic setup of API access for Antminer](https://support.awesomeminer.com/support/solutions/articles/35000085989-configure-privileged-api-access-for-antminer)
 
 ### Help
 Frequently Asked Questions and Help topics
